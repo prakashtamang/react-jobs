@@ -85,15 +85,15 @@
       }
     },
     {
-      "id": "c1b1",
+      "id": "b7c1",
       "title": "React Developer",
       "type": "Full-Time",
-      "description": "New job description",
+      "description": "new job description for react developer",
       "location": "Kathmandu",
       "salary": "Under $50K",
       "company": {
         "name": "Nirvair Tech",
-        "description": "leading software company in Nepal",
+        "description": "Leading software company in Nepal",
         "contactEmail": "nirvair@gmail.com",
         "contactPhone": "555-555-5555"
       }
